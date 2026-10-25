@@ -1559,9 +1559,9 @@ def deploy_all():
 
 # Order IDs match infrastructure/seed_data.py.
 TEST_CASES = [
-    ("CUST-001", "I want to return my wireless headphones from order ORD-27176"),
+    ("CUST-001", "What is the warranty policy for electronics?"),
     ("CUST-002", "What is the return policy for premium customers?"),
-    ("CUST-003", "How much would 5 items at $29.99 be with a 10% discount?"),
+    ("CUST-003", "What is the shipping policy for international orders?"),
 ]
 
 # Test customers shown by the chat command. Data matches seed_data.py.
