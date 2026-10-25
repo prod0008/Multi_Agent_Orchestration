@@ -1,3 +1,5 @@
+from aws_xray_sdk.core import patch_all
+patch_all()
 """
 agent_orchestrator.py
 =====================
